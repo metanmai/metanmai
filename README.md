@@ -18,7 +18,6 @@
 ## Tech Stack
 
 <p>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" alt="aws" width="40" height="40" style="border-radius: 20px; margin-right: 5px;"/></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 5px;"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 5px;"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 5px;"/></a>
@@ -38,4 +37,7 @@
 ## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metanmai&layout=donut-vertical&bg_color=212237&text_color=ffffff&title_color=EBE217)
+<br/>
+<br/>
+<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=metanmai&theme=omni&hide_border=false&card_width=700&fire=EB6B0B&background=212237&ring=EB36A3&currStreakNum=EBE217&currStreakLabel=EBE217&sideNums=EBE217)
