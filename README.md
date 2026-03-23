@@ -29,6 +29,11 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="margin-right: 5px;"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 5px;"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40" style="margin-right: 5px;"/></a>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" style="margin-right: 5px;"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 5px;"/></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" style="margin-right: 5px;"/></a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40" style="margin-right: 5px;"/></a>
+<a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/66016038?s=200&v=4" alt="railway" width="40" height="40" style="border-radius: 8px; margin-right: 5px;"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin-right: 5px;"/></a>
 </p>
 
@@ -37,7 +42,6 @@
 ## GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metanmai&layout=donut-vertical&bg_color=212237&text_color=ffffff&title_color=EBE217)
-<br/>
 <br/>
 <br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=metanmai&theme=omni&hide_border=false&card_width=700&fire=EB6B0B&background=212237&ring=EB36A3&currStreakNum=EBE217&currStreakLabel=EBE217&sideNums=EBE217)
